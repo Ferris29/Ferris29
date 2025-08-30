@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ferris29
-- 👀 I’m interested in Cyber Security, Software Development
-- 🌱 I’m currently learning Cyber Security, Golang, Java, Software Development
-- 💞️ I’m looking to collaborate on Open-Source Software Projects, Cyber Security Projects
+- 👀 I’m interested in Cyber Security and Web Development
+- 🌱 I’m currently learning Full-Stack Web Development
+- 💞️ I’m looking to collaborate on Open-Source Software Projects
 - 📫 How to reach me ...
 - 😄 Pronouns: He/ him
 - ⚡ Fun fact: 
