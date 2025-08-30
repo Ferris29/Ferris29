@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ferris29
+- 👋 Hi, I’m @Ferris
 - 👀 I’m interested in Cyber Security and Web Development
 - 🌱 I’m currently learning Full-Stack Web Development
 - 💞️ I’m looking to collaborate on Open-Source Software Projects
